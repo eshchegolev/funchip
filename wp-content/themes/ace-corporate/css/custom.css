@@ -1,0 +1,59 @@
+.service-wrap .service-body {
+    padding: 0 0;
+    margin: -40px auto auto auto;
+}
+
+.service-wrap .media-wrapper .media-wrap img {
+    height: 150px;
+}
+
+.service-body h3 a {
+    font-weight: 600 !important;
+    font-size: 13px;
+}
+
+.service-wrap {
+    margin-bottom: 20px;
+}
+
+.portfolio .box img {
+    height: 220px !important;
+}
+
+.testimonial-wrap {
+    height: 475px;
+}
+.service-read, .promo-btn, .cp-top {
+    background-color: #92c511;
+}
+
+.service-read:hover, .promo-btn:hover, cp-top:hover{
+   /* background-color: #92c511;*/
+    color: #000;
+}
+
+.featured-image img {
+    height: 200px;
+}
+.blog-content{
+    height: 530px;
+}
+.blogroll{
+padding: 0 0!important;
+}
+.service-body .btn{
+    width: 100%;
+}
+
+.aboutbox .media-wrap {
+    padding: 10px 0;
+}
+#promo{
+    background: #2b2b2b url('./../img/back-layout_1.jpg')repeat center center fixed;
+}
+
+.page-img{
+    background: url('./../img/advantage_1.jpg')repeat center center fixed;
+}
+
+

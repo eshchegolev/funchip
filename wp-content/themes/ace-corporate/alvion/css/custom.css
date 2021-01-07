@@ -1,0 +1,45 @@
+
+/* Общее описание стилей для элементов. Тимплейт goods-list */
+.card {
+    border: 1px solid #CCCCCC;
+    margin: 5px;
+    padding: 15px;
+    color: #0f0f0f;
+    text-align: center;
+    height: 500px;
+    overflow: hidden;
+}
+
+
+/* Описание стилей для ссылки "Подробнее...". Тимплейт goods-list */
+.card-link {
+    color: #0000cc;
+    font-size: 24px;
+}
+
+.card-link:hover {
+    color: #00AA00;
+}
+
+
+/* Описание стилей для текста в рамочке. Тимплейт goods-list */
+
+.card-title:hover {
+    color: #00AA00;
+}
+
+
+
+
+/* Описание стилей для мобильной версии */
+@media (max-width: 900px) {
+
+    .card-link {
+        color: #0f0f0f;
+        font-size: 24px;
+    }
+
+    .card-link:hover {
+        color: #00aa00;
+    }
+}
